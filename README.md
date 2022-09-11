@@ -1,6 +1,6 @@
-# WebsitePeer2Panel
+# Website built with Gatsby
 
-With Gatsby, I created the following website:
+With Gatsby (https://www.gatsbyjs.com/), I created the following website:
 
 https://peer2panel-com-website.vercel.app/
 
